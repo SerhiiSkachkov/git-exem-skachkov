@@ -5,6 +5,9 @@ project-name.com 1.0.0 (07/09/2017)
 ====================================
 - init project commit
 
+## [0.0.2] - 2018-06-11
+### Fixed
+- Added phpinfo() in index.p
 
 ## [0.0.1] - 2018-06-11
 ### Added
